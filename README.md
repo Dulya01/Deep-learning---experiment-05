@@ -12,6 +12,5 @@ A baseline Seq2Seq model using plain LSTM layers for encoding and decoding.
 LSTM Encoder-Decoder (with Attention)
 Enhanced translation models using attention mechanisms:
 
-Bahdanau Attention (Additive)
-
-Luong Attention (Multiplicative)
+      Bahdanau Attention (Additive)
+      Luong Attention (Multiplicative)
