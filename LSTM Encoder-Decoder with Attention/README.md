@@ -1,1 +1,1 @@
-test
+A Seq2Seq model with an attention layer enhances the original Seq2Seq architecture by allowing the decoder to focus on specific parts of the input sequence at each decoding step. This addresses the limitation of the original Seq2Seq, where the encoder had to compress the entire input into a fixed-length context vector. The attention layer computes a weighted sum of the encoder's hidden states, creating a "context vector" that the decoder uses to generate the output sequence, effectively focusing on the most relevant parts of the input. 
