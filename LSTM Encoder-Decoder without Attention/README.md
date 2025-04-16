@@ -1,1 +1,1 @@
-test
+A seq2seq model without attention, or a basic encoder-decoder model, uses two recurrent neural networks (RNNs): an encoder and a decoder. The encoder processes an input sequence and compresses it into a fixed-length context vector. The decoder then uses this context vector to generate an output sequence. 
